@@ -1,0 +1,191 @@
+.container-background{
+    
+  background: linear-gradient(300deg, #F5A962, #DDDDDD);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+  
+}
+
+.font-big{
+    font-size: 5rem;
+    font-family: "Rowdies", sans-serif;
+    font-weight: 700;
+    color:#125D98;
+}
+
+.lead{
+    font-size: 20pt;
+    font-family: "Roboto Serif", serif;
+    font-weight: 500;
+    color: #3C8DAD;
+}
+
+.profil{
+   height: 550px;
+   width: 630px;
+}
+
+
+
+h2{
+    font-size: 4rem;
+    font-family: "Rowdies", sans-serif;
+    color:#F5A962;
+    text-align: left;
+}
+
+.icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 0.75rem;
+    background-color: #F5A962;
+  }
+
+.education{
+font-family: "Rowdies", sans-serif;
+  font-weight: 500;
+  color: #125D98;
+}
+
+.edu{
+    font-family: "Roboto Serif", serif;
+    font-weight: 500; 
+    color:#3C8DAD
+}
+
+.skills{
+    text-align: left;
+    color:#F5A962;
+    font-size: 4rem;
+}
+
+.skll{
+    text-align: center;
+    align-items: center;
+}
+
+
+.skill-row{
+    display: flex;    
+    
+}
+
+.container-skill{
+    background-color: #3C8DAD;
+}
+
+h3{
+    font-family: "Roboto Serif", serif;
+    color:#DDDDDD;
+}
+
+.p{
+    color:#DDDDDD;
+}
+
+.back{
+    background-color: #DDDDDD;
+}
+
+.exp{
+    color: #125D98;
+}
+
+.role{
+    color:#125D98;
+    font-family: "Roboto Serif", serif;;
+}
+
+.place{
+    color:#3C8DAD;
+    font-family: "Roboto Serif", serif;
+}
+
+.isi{
+    color:#125D98;
+    font-family: "Roboto Serif", serif;
+}
+
+.tgl{
+    color:#F5A962;
+    font-family: "Roboto Serif", serif;
+    font-weight: medium;
+}
+
+.kotak{
+    background-color: whitesmoke;
+}
+
+.what{
+    font-size: 5rem;
+}
+
+.caption{
+    font-family: "Roboto Serif", serif;
+    color:#DDDDDD
+}
+
+.p-project{
+    color:#125D98;
+    font-family: "Roboto Serif", serif;
+    font-weight: 500;
+}
+
+.carousel-A{
+    display: grid;
+    grid-auto-flow: column;
+    scroll-behavior: auto;
+    gap: 1.5rem;
+    overflow-y: auto;
+    overscroll-behavior-x: contain;
+    scroll-snap-type: x mandatory;
+    scrollbar-width: none;
+    width: 1100px;
+    height: 400px;
+    margin-bottom: 10px;
+}
+
+.cardA{
+    width: 600px;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sertif{
+    background-color: #F5A962;
+}
+
+.certi{
+    color:#3C8DAD
+}
+
+.contact{
+    margin-top: 10px;
+    
+}
+
+.btn-primary{
+    background-color:#125D98;
+      
+}
+
+.klik{
+    color:#DDDDDD;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.connect{
+    color:#125D98;
+}
+
+.pleasure{
+    color:#3C8DAD;
+}
+
+
+
+
+
